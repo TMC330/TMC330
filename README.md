@@ -1,4 +1,4 @@
-- TMC
-- Starting studying Computer Science at Exeter University in September.
+- Tom Cavilla
+- Studying Computer Science at Exeter University.
 - Good understanding of Python, Ruby, Javascript and C#.
 - Very New to Github.
