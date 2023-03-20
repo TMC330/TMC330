@@ -1,2 +1,2 @@
 - Tom Cavilla
-- Studying Computer Science at Exeter University.
+- First year MSci Computer Science at University of Exeter.
