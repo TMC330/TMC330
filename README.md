@@ -1,2 +1,2 @@
 - Tom Cavilla
-- First year MSci Computer Science at University of Exeter.
+- Second year Computer Science student at the University of Exeter.
